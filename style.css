@@ -58,6 +58,9 @@ h1{
     border-radius: 6px;
     
 }
+.experiens-item h3{
+    color: orange;
+}
 #web-exp{
     border-left: 6px solid;
     border-image:linear-gradient(salmon, tomato);
